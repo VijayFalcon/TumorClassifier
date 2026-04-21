@@ -1,4 +1,4 @@
-#MEDIQA-CORE 🧠
+**MEDIQA-CORE 🧠**
 
 Multimodal Reasoning & Reconciliation in Radiology
 A tri-modal deep learning system for brain tumor classification that jointly processes multi-sequence MRI volumes, whole-slide histopathology images (WSI), and clinical pathology reports to mirror the real-world clinical diagnostic workflow.
